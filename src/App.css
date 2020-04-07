@@ -6,6 +6,14 @@
     background-color: aquamarine;
 }
 
+.error {
+    border-bottom-color: red;
+}
+
+.todoList-task.done {
+    opacity: 0.5;
+}
+
 .todoList {
     width: 500px;
     margin: 0 auto;
